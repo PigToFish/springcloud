@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConfigClient/ConfigClient.iml" filepath="$PROJECT_DIR$/ConfigClient/ConfigClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigEurekaServer/ConfigEurekaServer.iml" filepath="$PROJECT_DIR$/ConfigEurekaServer/ConfigEurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/ConfigServer/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaClient/EurekaClient.iml" filepath="$PROJECT_DIR$/EurekaClient/EurekaClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SericeFeign/SericeFeign.iml" filepath="$PROJECT_DIR$/SericeFeign/SericeFeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceRibbon/ServiceRibbon.iml" filepath="$PROJECT_DIR$/ServiceRibbon/ServiceRibbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceZuul/ServiceZuul.iml" filepath="$PROJECT_DIR$/ServiceZuul/ServiceZuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+    </modules>
+  </component>
+</project>
